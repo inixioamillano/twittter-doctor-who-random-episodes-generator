@@ -1,0 +1,17 @@
+{
+  "name": "doctor-who-random-episode-generator-bot",
+  "version": "1.0.0",
+  "description": "Doctor Who random episode generator based on the Markov chain generator method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Inixio Amillano Casteig",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "dotenv": "^8.2.0",
+    "markov-generator": "^1.2.3",
+    "twitter": "^1.7.1"
+  }
+}
